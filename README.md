@@ -1,3 +1,3 @@
 # 1stWebProj
-InternetStore
+Internet Store
 Web project - Tech Online Store created on java using Hibernate , Spring(MVC) frameworks.
